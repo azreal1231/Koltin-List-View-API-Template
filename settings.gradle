@@ -1,0 +1,2 @@
+rootProject.name = "recyclerAPI_Example"
+include ':app'
