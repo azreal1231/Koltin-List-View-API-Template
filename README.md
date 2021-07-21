@@ -4,3 +4,6 @@ this is an example app on how to use Volley and handel a jsonArray and append ar
 where you can see items details and click on an Item to show its ID or go to another activity.
 
 ps the power's in your hards
+
+//  Volley http
+    implementation 'com.android.volley:volley:1.1.1'
